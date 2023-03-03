@@ -1,0 +1,89 @@
+
+nav{
+    display: flex;
+    gap: 10%;
+    height: 10vh;
+}
+nav ul li{
+    list-style: none;
+    display: flex;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+    
+    
+    
+}
+nav ul{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    align-items: center;
+    font-size:medium;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-weight: 500;
+
+}
+nav img{
+    height: 40px;
+    width: 100px;
+    margin-top: 6%;
+}
+.btn{
+    align-items: end;
+    margin-left: 38%;
+}
+nav button, main button{
+    background-color:#7B68EE; 
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+
+  
+  margin-top: 10px;
+  
+
+
+  }
+  main{
+    display: flex;
+    margin-top: 5%;
+  }
+  main img{
+    height: 73vh;
+    width:99;
+    
+    
+  }
+  .btn{
+    
+    
+
+  }
+  .main-left-section{
+    width: 50%;
+    margin-left: 5%;
+  }
+  .main-right-section{
+    width: 50%;
+    margin-left: 15%;
+  }
+  .main-left-section h1{
+    font-size: 3.2rem;
+    color: #452c63;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+  }
+  .main-left-section h1 span{
+    font-size: 3.2rem;
+    color: #7B68EE;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+  }
+
